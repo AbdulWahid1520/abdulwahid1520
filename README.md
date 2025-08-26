@@ -1,23 +1,31 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>
-Brain Bash – Quiz platform with leaderboard & admin dashboard<br>
-MedEase – Personal healthcare & wellness tracking app<br>
-FisherNet – Marketplace for Bahraini fishermen & consumers<br>
-🤝 I’m looking to collaborate on<br>
-Flutter & Dart open-source projects<br>
-Web apps with PHP/MySQL and modern UI/UX<br>
-Academic/educational tools that combine business + technology<br>👯 I’m looking for help with<br>
-Scaling mobile apps with Firebase & Docker<br>
-Optimizing backend hosting on VPS/Nginx/MySQL<br>
-Enhancing UI/UX for cross-platform apps<br>
-🌱 I’m currently learning<br>
-Advanced Flutter state management (Provider, Riverpod, Bloc)<br>
-Cloud hosting & automation with Docker & Nginx<br>
-Business Informatics applications for real-world startups<br>
-💬 Ask me about<br>Flutter mobile development<br>
-Combining tech with business strategy<br>
-Building startup ideas into working prototypes<br>
-⚡ Fun fact<br>
+# 💫 About Me
+
+## 🔭 Currently Working On
+- **Brain Bash** – Quiz platform with leaderboard & admin dashboard
+- **MedEase** – Personal healthcare & wellness tracking app
+- **FisherNet** – Marketplace for Bahraini fishermen & consumers
+
+## 🤝 Looking to Collaborate On
+- Flutter & Dart open-source projects
+- Web apps with PHP/MySQL and modern UI/UX
+- Academic/educational tools that combine business + technology
+
+## 👯 Looking for Help With
+- Scaling mobile apps with Firebase & Docker
+- Optimizing backend hosting on VPS/Nginx/MySQL
+- Enhancing UI/UX for cross-platform apps
+
+## 🌱 Currently Learning
+- Advanced Flutter state management (Provider, Riverpod, Bloc)
+- Cloud hosting & automation with Docker & Nginx
+- Business Informatics applications for real-world startups
+
+## 💬 Ask Me About
+- Flutter mobile development
+- Combining tech with business strategy
+- Building startup ideas into working prototypes
+
+## ⚡ Fun Fact
 When I’m not coding, you’ll find me working in events at Bahrain International Circuit 🏎️ or brainstorming new app ideas over coffee ☕.
 
 
